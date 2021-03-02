@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 7mm;
+  font-size: 100%; /* 100%sind 16pixle auf dem Monitor*/
+  margin: 0;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
